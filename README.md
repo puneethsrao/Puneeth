@@ -30,5 +30,4 @@ Folders included:
 					2) CSS
 					3) JS
 					4) IMAGES
-					5) PSD
 		
